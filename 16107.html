@@ -202,11 +202,11 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
       emojiMaps: "",
       path: window.location.pathname,
       visitor: true
-    }, {"master":["ed1775c3d3a973fbb4610d665a7a37c1"],"friends":null,"metaPlaceholder":{"nick":"昵称/QQ号(必填)","mail":"邮箱(必填)","link":"网址(https://)"},"tagMeta":["博主","小伙伴","访客"]}))
+    }, null))
   }
 
   if (typeof Valine === 'function') initValine() 
-  else getScript('https://cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js').then(initValine)
+  else getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js').then(initValine)
 }
 
 if ('Valine' === 'Valine' || !true) {
