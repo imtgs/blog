@@ -41,9 +41,9 @@
     
     <category term="hexo" scheme="https://blog.imtgs.space/tags/hexo/"/>
     
-    <category term="termux" scheme="https://blog.imtgs.space/tags/termux/"/>
-    
     <category term="github" scheme="https://blog.imtgs.space/tags/github/"/>
+    
+    <category term="termux" scheme="https://blog.imtgs.space/tags/termux/"/>
     
   </entry>
   
