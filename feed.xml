@@ -41,9 +41,9 @@
     
     <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
     
-    <category term="termux" scheme="https://xshaw.top/tags/termux/"/>
-    
     <category term="github" scheme="https://xshaw.top/tags/github/"/>
+    
+    <category term="termux" scheme="https://xshaw.top/tags/termux/"/>
     
   </entry>
   
