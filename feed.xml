@@ -6,7 +6,7 @@
   <link href="https://xshaw.top/feed.xml" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://xshaw.top/"/>
-  <updated>2022-05-29T01:02:28.108Z</updated>
+  <updated>2022-05-29T01:06:58.038Z</updated>
   <id>https://xshaw.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xshaw.top/53280.html"/>
     <id>https://xshaw.top/53280.html</id>
     <published>2022-05-28T23:13:46.000Z</published>
-    <updated>2022-05-29T01:02:28.108Z</updated>
+    <updated>2022-05-29T01:06:58.038Z</updated>
     
     <content type="html"><![CDATA[<p>原来的<code>imtgs.space</code>域名（快）到期了，我也只能被迫续费域名。但GoDaddy的域名第二年续费太贵，而且我这英文名（指<code>Imtgs</code>）是一时乱起的（这名字是五个单词的首字母拼接起来的：I’m the good student，意思是：我是个好学生），在谷歌智障翻译下被翻译成了<code>即时消息</code>，非常的接地气。于是我决定换一个域名服务商，再换一个好的名字。</p><p>再三思考后，我决定就用<code>XShaw</code>这个名字，我姓肖，Shaw有肖的意思，至于X，就是随便找的一个字母来凑合。</p><p>域名商我建议使用<a href="https://www.namesilo.com/">NameSilo</a>，后缀真的很便宜，<code>.com</code>只需要9.95刀（≈软妹币66.6511元），而且还有一些优惠劵或活动什么的</p><div class="tag link"><a class="link-card" title="NameSilo" href="https://www.namesilo.com/"><div class="left"><img src="https://www.namesilo.com/favicon.ico"/></div><div class="right"><p class="text">NameSilo</p><p class="url">https://www.namesilo.com/</p></div></a></div><div class="tag link"><a class="link-card" title="Namesilo价格表" href="https://www.namesilo.com/pricing.php?rid=d27fa32do"><div class="left"><img src="https://www.namesilo.com/favicon.ico"/></div><div class="right"><p class="text">Namesilo价格表</p><p class="url">https://www.namesilo.com/pricing.php?rid=d27fa32do</p></div></a></div><div class="tag link"><a class="link-card" title="Namesilo域名购买及使用教程（附Namesilo优惠码）" href="https://zhuanlan.zhihu.com/p/33921436"><div class="left"><img src="https://static.zhihu.com/heifetz/favicon.ico"/></div><div class="right"><p class="text">Namesilo域名购买及使用教程（附Namesilo优惠码）</p><p class="url">https://zhuanlan.zhihu.com/p/33921436</p></div></a></div><p>当然像我这样的穷鬼必须要选便宜，所以我选择了最便宜的后缀<code>.top</code>（计算标准：第一年+续费一年），加上那一美元的优惠劵，只用了不到6软妹币就全款买下了</p><p>其它的我就不说了，拜拜~</p>]]></content>
     
@@ -67,11 +67,11 @@
     
     <category term="blog" scheme="https://xshaw.top/tags/blog/"/>
     
-    <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
-    
     <category term="termux" scheme="https://xshaw.top/tags/termux/"/>
     
     <category term="github" scheme="https://xshaw.top/tags/github/"/>
+    
+    <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
     
   </entry>
   
@@ -98,9 +98,9 @@
     
     <category term="blog" scheme="https://xshaw.top/tags/blog/"/>
     
-    <category term="jekyll" scheme="https://xshaw.top/tags/jekyll/"/>
-    
     <category term="github" scheme="https://xshaw.top/tags/github/"/>
+    
+    <category term="jekyll" scheme="https://xshaw.top/tags/jekyll/"/>
     
   </entry>
   
@@ -127,9 +127,9 @@
     
     <category term="blog" scheme="https://xshaw.top/tags/blog/"/>
     
-    <category term="jekyll" scheme="https://xshaw.top/tags/jekyll/"/>
-    
     <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
+    
+    <category term="jekyll" scheme="https://xshaw.top/tags/jekyll/"/>
     
   </entry>
   

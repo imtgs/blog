@@ -1,0 +1,12 @@
+#article-container h1:before {
+  content: "H1";
+}
+#article-container h2:before {
+  content: "H2";                           
+}
+#article-container h3:before {
+  content: "H3";                                   
+}
+#article-container h4:before {
+  content: "H4";                                   
+}                                                          #article-container h5:before {                               content: "H5";                                           }                                                          #article-container h6:before {                               content: "H6";                                           }
