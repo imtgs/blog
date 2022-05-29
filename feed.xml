@@ -67,11 +67,11 @@
     
     <category term="blog" scheme="https://xshaw.top/tags/blog/"/>
     
+    <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
+    
     <category term="termux" scheme="https://xshaw.top/tags/termux/"/>
     
     <category term="github" scheme="https://xshaw.top/tags/github/"/>
-    
-    <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
     
   </entry>
   
@@ -98,9 +98,9 @@
     
     <category term="blog" scheme="https://xshaw.top/tags/blog/"/>
     
-    <category term="github" scheme="https://xshaw.top/tags/github/"/>
-    
     <category term="jekyll" scheme="https://xshaw.top/tags/jekyll/"/>
+    
+    <category term="github" scheme="https://xshaw.top/tags/github/"/>
     
   </entry>
   
@@ -127,9 +127,9 @@
     
     <category term="blog" scheme="https://xshaw.top/tags/blog/"/>
     
-    <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
-    
     <category term="jekyll" scheme="https://xshaw.top/tags/jekyll/"/>
+    
+    <category term="hexo" scheme="https://xshaw.top/tags/hexo/"/>
     
   </entry>
   

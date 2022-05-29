@@ -51,11 +51,11 @@
             
             <tag> blog </tag>
             
+            <tag> hexo </tag>
+            
             <tag> termux </tag>
             
             <tag> github </tag>
-            
-            <tag> hexo </tag>
             
         </tags>
       
@@ -82,9 +82,9 @@
             
             <tag> blog </tag>
             
-            <tag> github </tag>
-            
             <tag> jekyll </tag>
+            
+            <tag> github </tag>
             
         </tags>
       
@@ -111,9 +111,9 @@
             
             <tag> blog </tag>
             
-            <tag> hexo </tag>
-            
             <tag> jekyll </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
