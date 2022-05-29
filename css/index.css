@@ -1952,12 +1952,10 @@ figure.highlight pre .javascript .function {
 .error404 #error-wrap .error-content {
   overflow: hidden;
   margin: 0 20px;
-  height: 360px;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content {
     margin: 0;
-    height: 500px;
   }
 }
 .error404 #error-wrap .error-content .error-img {
