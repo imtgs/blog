@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xshaw.top/7717.html</loc>
+    
+    <lastmod>2022-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xshaw.top/58250.html</loc>
+    
+    <lastmod>2022-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/53280.html</loc>
+    
+    <lastmod>2022-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/about/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -14,24 +41,6 @@
     <loc>https://xshaw.top/link/index.html</loc>
     
     <lastmod>2022-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xshaw.top/7717.html</loc>
-    
-    <lastmod>2022-05-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xshaw.top/about/index.html</loc>
-    
-    <lastmod>2022-05-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>https://xshaw.top/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,35 +84,56 @@
   
   <url>
     <loc>https://xshaw.top/tags/blog/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xshaw.top/tags/jekyll/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xshaw.top/tags/hexo/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/github/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <loc>https://xshaw.top/tags/NameSilo/</loc>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/tags/Cloudflare/</loc>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/tags/Vercel/</loc>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xshaw.top/tags/termux/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/tags/github/</loc>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -111,15 +141,15 @@
 
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%B0%B4%E6%96%87/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <loc>https://xshaw.top/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</loc>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-05-28</lastmod>
+    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/</loc>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
