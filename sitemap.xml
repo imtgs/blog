@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/7717.html</loc>
-    
-    <lastmod>2022-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/53280.html</loc>
     
     <lastmod>2022-06-03</lastmod>
@@ -48,6 +39,15 @@
   
   <url>
     <loc>https://xshaw.top/58250.html</loc>
+    
+    <lastmod>2022-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/7717.html</loc>
     
     <lastmod>2022-06-03</lastmod>
     
@@ -104,13 +104,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/Github/</loc>
-    <lastmod>2022-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/tags/NameSilo/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -138,6 +131,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://xshaw.top/tags/Github/</loc>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -155,14 +155,14 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Jekyll/</loc>
+    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Hexo/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Hexo/</loc>
+    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Jekyll/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
