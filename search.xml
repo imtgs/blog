@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>博客差点迁移到Hugo</title>
+      <link href="/3607.html"/>
+      <url>/3607.html</url>
+      
+        <content type="html"><![CDATA[<p>最近闲下来没事干，没事干就得折腾，我就用Termux折腾了一下Hugo</p><div class="note default flat"><p>Hugo是最流行的开源静态站点生成器之一。凭借其惊人的速度和灵活性，Hugo让构建网站再次变得有趣。</p><div class="tag link"><a class="link-card" title="The world’s fastest framework for building websites" href="https://gohugo.io/"><div class="left"><img src="https://gohugo.io/favicon.ico"/></div><div class="right"><p class="text">The world’s fastest framework for building websites</p><p class="url">https://gohugo.io/</p></div></a></div></div><hr><p>其实折腾Hugo的主要原因是我不喜欢Hexo Butterfly这样花里胡哨的主题，况且Hexo生成速度太慢了，而Hugo又是生成速度最快的。我就在犹豫中徘徊，最终决定Hexo站点文件不删，先看Hugo顺不顺手再说</p><p>首先就是配置，官方的文档生涩难懂，国内也没有过多关于Hugo的教程，第一步就要打道回府了</p><p>Hugo与Hexo类似，都有主题，但大部分主题都没有具体的配置教程，而Hexo就不一样。就拿Hugo的stack主题，Github自述文件里说明很多功能和参考项目，但提起教程文档却是寥寥几笔</p><p>于是，我又回到了Hexo <del>你知道我折腾这东西浪费了多少时间吗，啊？</del></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 胡言乱语 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Hugo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>浅谈“The Backrooms”</title>
       <link href="/39835.html"/>
       <url>/39835.html</url>
