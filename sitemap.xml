@@ -133,13 +133,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/Jekyll/</loc>
-    <lastmod>2022-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/tags/Hexo/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +211,13 @@
   
   <url>
     <loc>https://xshaw.top/tags/Gitee/</loc>
+    <lastmod>2022-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/tags/Jekyll/</loc>
     <lastmod>2022-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
