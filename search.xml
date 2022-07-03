@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> 📚小卖部の杂志区 </category>
+          <category> 无处安放 </category>
           
       </categories>
       
@@ -40,7 +40,7 @@
       
       <categories>
           
-          <category> 📦小卖部の资源区 </category>
+          <category> 教程干货 </category>
           
           <category> 电子书 </category>
           
@@ -67,7 +67,7 @@
       
       <categories>
           
-          <category> 🥜小卖部の干货区 </category>
+          <category> 教程干货 </category>
           
       </categories>
       
@@ -98,7 +98,7 @@
       
       <categories>
           
-          <category> 📰小卖部の报纸区 </category>
+          <category> 胡言乱语 </category>
           
       </categories>
       
@@ -127,7 +127,7 @@
       
       <categories>
           
-          <category> 📚小卖部の杂志区 </category>
+          <category> 胡言乱语 </category>
           
           <category> 浅谈 </category>
           
@@ -154,7 +154,7 @@
       
       <categories>
           
-          <category> 🥜小卖部の干货区 </category>
+          <category> 教程干货 </category>
           
           <category> Hexo </category>
           
@@ -181,7 +181,7 @@
       
       <categories>
           
-          <category> 🥜小卖部の干货区 </category>
+          <category> 教程干货 </category>
           
           <category> Hexo </category>
           
@@ -212,7 +212,7 @@
       
       <categories>
           
-          <category> 📰小卖部の报纸区 </category>
+          <category> 胡言乱语 </category>
           
       </categories>
       
@@ -241,7 +241,7 @@
       
       <categories>
           
-          <category> 🥜小卖部の干货区 </category>
+          <category> 教程干货 </category>
           
           <category> Hexo </category>
           
@@ -269,12 +269,12 @@
       <link href="/16107.html"/>
       <url>/16107.html</url>
       
-        <content type="html"><![CDATA[<p>我，一名只会一点Python的12岁小学生，在一次偶然的机会下，我知道了<code>Github</code>和<code>Jekyll</code>，开始了我的博客搭建之路。</p><p>以前，我一直都在使用Jekyll生成博客，期间更换了很多主题：<a href="https://github.com/Simpleyyt/jekyll-theme-next">Next</a>、<a href="https://github.com/Huxpro/huxpro.github.io">Hux Blog</a>、<a href="https://github.com/TMaize/tmaize-blog">Tmaize</a>，但都不符合我的胃口。</p><p>后来，我知道了<code>Hexo</code>，发现Hexo的主题更好看。在我精挑细选之下，找到了这款Hexo主题：<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a>，决定安心用下去。</p><hr /><div class="note red icon-padding flat"><i class="note-icon fa-solid fa-comment-slash"></i><p>不要问我下面这段为什么不删掉！</p></div><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>我，一位初一学生，在一次偶然的机会下，我知道了<code>Github</code>和<code>Jekyll</code>，开始了我的博客搭建之路。</p><p>以前，我一直都在使用Jekyll生成博客，期间更换了很多主题：<a href="https://github.com/Simpleyyt/jekyll-theme-next">Next</a>、<a href="https://github.com/Huxpro/huxpro.github.io">Hux Blog</a>、<a href="https://github.com/TMaize/tmaize-blog">Tmaize</a>，但都不符合我的胃口。</p><p>后来，我知道了<code>Hexo</code>，发现Hexo的主题更好看。在我精挑细选之下，找到了这款Hexo主题：<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a>，决定安心用下去。</p><hr /><div class="note red icon-padding flat"><i class="note-icon fa-solid fa-comment-slash"></i><p>不要问我下面这段为什么不删掉！</p></div><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       <categories>
           
-          <category> 📰小卖部の报纸区 </category>
+          <category> 胡言乱语 </category>
           
       </categories>
       
