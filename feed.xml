@@ -6,7 +6,7 @@
   <link href="https://xshaw.top/feed.xml" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://xshaw.top/"/>
-  <updated>2022-06-29T04:46:10.524Z</updated>
+  <updated>2022-07-03T01:04:15.191Z</updated>
   <id>https://xshaw.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我用Python写了一门新编程语言</title>
+    <link href="https://xshaw.top/11905.html"/>
+    <id>https://xshaw.top/11905.html</id>
+    <published>2022-06-30T12:05:37.000Z</published>
+    <updated>2022-07-03T01:04:15.191Z</updated>
+    
+    <content type="html"><![CDATA[<p>事情是这样的，昨天刚学会Python，心里有些膨胀。就个人而言，我觉得Python还不够简练，在网上搜了搜自制语言的教程，几乎全都是用C或C++、C#做的，我才刚学会Python又要学这个？？？</p><p>C语言都可以，Python为什么不可以？实践是检验真理的唯一标准，说做就做！</p><h1 id="找目标"><a class="markdownIt-Anchor" href="#找目标"></a> 找目标</h1><p>我的语言，要集万千优点于一身。语法参照Python、Shell、Lua，要有Shell的简练，Python的体验，Lua的轻盈</p><h1 id="取名字"><a class="markdownIt-Anchor" href="#取名字"></a> 取名字</h1><p>我打算这语言就叫<code>XAther</code>，<code>X</code>是我名字（指XShaw）的X，<code>Ather</code>拆开来就是at her，有<code>看她</code>的意思，此外，羽毛的英文翻译是Feather，Ather也代表着轻盈</p><hr /><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>开发日志</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022/06/30 0.0.1</p></div></div><div class='timeline-item-content'><ol><li><p>支持基本输出命令</p></li><li><p>控制台解释，暂不支持文件解释</p></li></ol><hr /><p>源码：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> re <span class="comment">#导入正则表达式模块</span></span><br><span class="line"><span class="keyword">import</span> sys <span class="comment">#导入退出模块</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">codeanalysis</span>(<span class="params">code</span>): <span class="comment">#分析代码</span></span><br><span class="line">    space = code.split(<span class="string">&#x27; &#x27;</span>,<span class="number">1</span>) <span class="comment">#分割空格</span></span><br><span class="line">    <span class="keyword">if</span> code == <span class="string">&quot;exit&quot;</span>: <span class="comment">#退出</span></span><br><span class="line">sys.exit()</span><br><span class="line">    <span class="keyword">elif</span> space[<span class="number">0</span>] == <span class="string">&quot;print&quot;</span>: <span class="comment">#输出</span></span><br><span class="line">codeprint(space[<span class="number">1</span>])</span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="built_in">print</span>(code)</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">codeprint</span>(<span class="params">code</span>):</span><br><span class="line">    <span class="keyword">for</span> output <span class="keyword">in</span> re.findall(<span class="string">r&#x27;&quot;(.*?)&quot;&#x27;</span>, code):</span><br><span class="line"><span class="built_in">print</span>(output, end=<span class="string">&#x27;&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>: <span class="comment">#主程序</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Welcome to XAther0.0.1!\nCTRL + C or enter exit to exit the program.&quot;</span>)</span><br><span class="line">    <span class="keyword">while</span> <span class="number">1</span> == <span class="number">1</span>: <span class="comment">#1不可能不等于1吧？</span></span><br><span class="line">        <span class="keyword">try</span>:</span><br><span class="line">    code = <span class="built_in">input</span>(<span class="string">&quot;&gt;&gt;&gt; &quot;</span>)</span><br><span class="line">    codeanalysis(code) <span class="comment">#执行分析代码函数</span></span><br><span class="line"><span class="keyword">except</span> IndexError: <span class="comment">#无参数语句判断</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Your statement has no other parameters, please add!&quot;</span>)</span><br></pre></td></tr></table></figure></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022/06/-- 创建文件</p></div></div><div class='timeline-item-content'><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim xather.py</span><br></pre></td></tr></table></figure></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022/06/-- 创建文件夹</p></div></div><div class='timeline-item-content'><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">mkdir</span> project</span><br></pre></td></tr></table></figure></div></div></div><hr /><p>效果：</p><p><img src="https://npm.elemecdn.com/xshaw-assets/img/11905/1.jpg" alt="Hello world" /></p><p><img src="https://npm.elemecdn.com/xshaw-assets/img/11905/2.jpg" alt="输出效果" /></p><h1 id="立目标"><a class="markdownIt-Anchor" href="#立目标"></a> 立目标</h1><p>未来我将会逐步完善XAther，让它支持更多功能。在更新到1.0.0的时候，我会将它上传到Github，并编写基础教程文档</p><p>还有，我可能不会让XAther支持变量，虽然开发效率降低了，但会让它显得更高级</p><p>XAther是一门高级、解释性语言</p><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>控制台解释</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>基本输出</p>            </div><div class='checkbox'><input type="checkbox" />            <p>文件解释</p>            </div><div class='checkbox'><input type="checkbox" />            <p>基本输入</p>            </div><div class='checkbox'><input type="checkbox" />            <p>基本判断、循环</p>            </div><div class='checkbox'><input type="checkbox" />            <p>基本函数</p>            </div><div class='checkbox'><input type="checkbox" />            <p>模块化</p>            </div><div class='checkbox'><input type="checkbox" />            <p>爬虫</p>            </div><div class='checkbox'><input type="checkbox" />            <p>图形化界面</p>            </div><div class='checkbox times red checked'><input type="checkbox" checked="checked"/>            <p>变量</p>            </div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;事情是这样的，昨天刚学会Python，心里有些膨胀。就个人而言，我觉得Python还不够简练，在网上搜了搜自制语言的教程，几乎全都是用C或C++、C#做的，我才刚学会Python又要学这个？？？&lt;/p&gt;
+&lt;p&gt;C语言都可以，Python为什么不可以？实践是检验真理的唯一标准</summary>
+      
+    
+    
+    
+    <category term="📚小卖部の杂志区" scheme="https://xshaw.top/categories/%F0%9F%93%9A%E5%B0%8F%E5%8D%96%E9%83%A8%E3%81%AE%E6%9D%82%E5%BF%97%E5%8C%BA/"/>
+    
+    
+    <category term="Python" scheme="https://xshaw.top/tags/Python/"/>
+    
+    <category term="XAther" scheme="https://xshaw.top/tags/XAther/"/>
+    
+  </entry>
   
   <entry>
     <title>PDF电子书：《Python编程：从入门到实践》、《Python Cookbook 第三版 中文》、《Python基础教程 第3版》</title>
