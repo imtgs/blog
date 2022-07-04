@@ -174,13 +174,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/Hugo/</loc>
-    <lastmod>2022-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/tags/Python/</loc>
     <lastmod>2022-07-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -210,6 +203,13 @@
   
   <url>
     <loc>https://xshaw.top/tags/Xposed/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/tags/Hugo/</loc>
     <lastmod>2022-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -295,14 +295,14 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Hexo/</loc>
+    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
     <lastmod>2022-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
+    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Hexo/</loc>
     <lastmod>2022-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
