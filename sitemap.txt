@@ -14,10 +14,10 @@ https://xshaw.top/about/index.html
 https://xshaw.top/categories/index.html
 https://xshaw.top/tags/index.html
 https://xshaw.top/
-https://xshaw.top/tags/Backrooms/
 https://xshaw.top/tags/Blog/
 https://xshaw.top/tags/Jekyll/
 https://xshaw.top/tags/Hexo/
+https://xshaw.top/tags/Backrooms/
 https://xshaw.top/tags/Hugo/
 https://xshaw.top/tags/Python/
 https://xshaw.top/tags/QAuxiliary/
