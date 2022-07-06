@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xshaw.top/53193.html</loc>
+    
+    <lastmod>2022-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xshaw.top/16107.html</loc>
     
     <lastmod>2022-07-03</lastmod>
@@ -289,6 +298,13 @@
   
   <url>
     <loc>https://xshaw.top/categories/%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE/</loc>
+    <lastmod>2022-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/categories/%E8%BE%97%E8%BD%AC%E9%9A%BE%E7%9C%A0/</loc>
     <lastmod>2022-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
