@@ -155,6 +155,13 @@
 
   
   <url>
+    <loc>https://xshaw.top/tags/Backrooms/</loc>
+    <lastmod>2022-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xshaw.top/tags/Blog/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,13 +219,6 @@
   
   <url>
     <loc>https://xshaw.top/tags/Xposed/</loc>
-    <lastmod>2022-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xshaw.top/tags/Backrooms/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,13 +304,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
-    <lastmod>2022-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/categories/%E8%BE%97%E8%BD%AC%E9%9A%BE%E7%9C%A0/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,6 +312,13 @@
   
   <url>
     <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/Hexo/</loc>
+    <lastmod>2022-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/categories/%E6%95%99%E7%A8%8B%E5%B9%B2%E8%B4%A7/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
