@@ -146,6 +146,13 @@
 
   
   <url>
+    <loc>https://xshaw.top/tags/Backrooms/</loc>
+    <lastmod>2022-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xshaw.top/tags/Blog/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -167,13 +174,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/Hugo/</loc>
-    <lastmod>2022-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/tags/Python/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,7 +181,7 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/Backrooms/</loc>
+    <loc>https://xshaw.top/tags/Hugo/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -216,13 +216,6 @@
   </url>
   
   <url>
-    <loc>https://xshaw.top/tags/Termux/</loc>
-    <lastmod>2022-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xshaw.top/tags/Github/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,6 +224,13 @@
   
   <url>
     <loc>https://xshaw.top/tags/Gitee/</loc>
+    <lastmod>2022-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xshaw.top/tags/Termux/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
