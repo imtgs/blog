@@ -687,12 +687,12 @@
                      data-src="https://img.xshaw.top/i/2024/08/18/66c197ab428fe.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/2024/08/18/66c198a474137.gif"
                       alt="动画演示"
-                ></p>
+                ><figcaption>动画演示</figcaption></figure></p>
 <p>可以看到光标的位移等效果变得丝滑流畅。</p>
 <h3 id="快捷缩放"><a href="#快捷缩放" class="headerlink" title="快捷缩放"></a>快捷缩放</h3><p>开启这个设置后，我们便可以使用 <code>Ctrl</code> 加鼠标滚轮快捷缩放代码字体大小。搜索 <code>editor.mouseWheelZoom</code> 勾选即可。</p>
 <p><img  
@@ -722,12 +722,12 @@
                      data-src="https://img.xshaw.top/i/2024/08/18/66c1ae7e5760e.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/2024/08/18/66c1aeedd99de.png"
                       alt="效果如上"
-                ></p>
+                ><figcaption>效果如上</figcaption></figure></p>
 <p>虽是自动折行，但其实不会对代码有修改，只是在外观上进行了折行（<del>是个人都知道吧</del>）。</p>
 <h3 id="括号块参考线"><a href="#括号块参考线" class="headerlink" title="括号块参考线"></a>括号块参考线</h3><p>搜索 <code>editor.guides.bracketPairs</code>，选择 <code>true</code> 即可。这样就会在两个括号之间显示一条竖线，方便我们辨认括号间的关系。</p>
 <p><img  
@@ -736,12 +736,12 @@
                      data-src="https://img.xshaw.top/i/2024/08/18/66c1b2388a59b.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/2024/08/18/66c1b279b9a99.png"
                       alt="效果如上"
-                ></p>
+                ><figcaption>效果如上</figcaption></figure></p>
 <h3 id="代码补全相关"><a href="#代码补全相关" class="headerlink" title="代码补全相关"></a>代码补全相关</h3><p>搜索 <code>editor.acceptSuggestionOnEnter</code> 设置为 <code>smart</code>，这样在代码补全时会自动判断我们的回车是接受建议还是换行。</p>
 <p><img  
                      lazyload
@@ -756,12 +756,12 @@
                      data-src="https://img.xshaw.top/i/66c2a568575b0.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/66c2a724d0153.gif"
                       alt="效果如上"
-                ></p>
+                ><figcaption>效果如上</figcaption></figure></p>
 <p>各位也可以根据自己的喜好灵活调整。</p>
 <h3 id="懒人方案"><a href="#懒人方案" class="headerlink" title="懒人方案"></a>懒人方案</h3><p>按 <code>Ctrl</code> + <code>Shift</code> + <code>P</code> 打开命令面板，输入 <code>settings.json</code> 并选择 <code>首选项：打开用户设置(JSON)</code>[^1]，然后复制张贴一下内容。如果你想了解更改了哪些内容，请看前文，不需要的可以删除。</p>
 <div class="highlight-container" data-rel="Json"><figure class="iseeu highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;files.autoSave&quot;</span><span class="punctuation">:</span> <span class="string">&quot;afterDelay&quot;</span><span class="punctuation">,</span> <span class="comment">// 自动保存</span></span><br><span class="line">  <span class="attr">&quot;files.autoSaveDelay&quot;</span><span class="punctuation">:</span> <span class="number">500</span><span class="punctuation">,</span> <span class="comment">// 自动保存的延迟</span></span><br><span class="line">  <span class="attr">&quot;files.autoGuessEncoding&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span> <span class="comment">// 自动检测文本编码类型</span></span><br><span class="line">  <span class="attr">&quot;editor.smoothScrolling&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span> <span class="comment">// 以下 5 个为动画设置</span></span><br><span class="line">  <span class="attr">&quot;editor.cursorSmoothCaretAnimation&quot;</span><span class="punctuation">:</span> <span class="string">&quot;on&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;workbench.list.smoothScrolling&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;terminal.integrated.smoothScrolling&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;editor.cursorBlinking&quot;</span><span class="punctuation">:</span> <span class="string">&quot;smooth&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;editor.mouseWheelZoom&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span> <span class="comment">// 快捷缩放</span></span><br><span class="line">  <span class="attr">&quot;editor.formatOnPaste&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span> <span class="comment">// 以下 3 个为格式化设置</span></span><br><span class="line">  <span class="attr">&quot;editor.formatOnSave&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;editor.formatOnType&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;editor.wordWrap&quot;</span><span class="punctuation">:</span> <span class="string">&quot;on&quot;</span><span class="punctuation">,</span> <span class="comment">// 自动折行</span></span><br><span class="line">  <span class="attr">&quot;editor.guides.bracketPairs&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span> <span class="comment">// 括号块参考线</span></span><br><span class="line">  <span class="attr">&quot;editor.acceptSuggestionOnEnter&quot;</span><span class="punctuation">:</span> <span class="string">&quot;smart&quot;</span><span class="punctuation">,</span> <span class="comment">// 这两个跟代码补全有关</span></span><br><span class="line">  <span class="attr">&quot;editor.suggestSelection&quot;</span><span class="punctuation">:</span> <span class="string">&quot;recentlyUsed&quot;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure></div>
@@ -778,12 +778,12 @@
                      data-src="https://img.xshaw.top/i/66c6a93d68d7e.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/66c6a9db94a8f.png"
                       alt="效果"
-                ></p>
+                ><figcaption>效果</figcaption></figure></p>
 <h4 id="GitHub-Theme"><a href="#GitHub-Theme" class="headerlink" title="GitHub Theme"></a><a class="link"   target="_blank" rel="noopener" href="https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme" >GitHub Theme <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p>由 GitHub 官方开发的 GitHub 风格的主题，有亮色也有暗色。</p>
 <p><img  
                      lazyload
@@ -791,12 +791,12 @@
                      data-src="https://img.xshaw.top/i/66c6abf3794e6.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/66c6ac6c458b2.png"
                       alt="效果"
-                ></p>
+                ><figcaption>效果</figcaption></figure></p>
 <h4 id="Material-Theme"><a href="#Material-Theme" class="headerlink" title="Material Theme"></a><a class="link"   target="_blank" rel="noopener" href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme" >Material Theme <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p>也是一款很优先的主题，有五种样式可以选择。</p>
 <p><img  
                      lazyload
@@ -804,12 +804,12 @@
                      data-src="https://img.xshaw.top/i/66c6b0a8dd2b5.png"
                      
                 ></p>
-<p><img  
+<p><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.xshaw.top/i/66c6b0f177048.png"
                       alt="效果"
-                ></p>
+                ><figcaption>效果</figcaption></figure></p>
 <hr>
 <p>还有其他好的主题这里就不在展示了，看多了有点眼花缭乱。如果你对上面的三个不满意，也可以看看下面几篇文章：</p>
 <ol>
