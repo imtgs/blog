@@ -4633,7 +4633,7 @@ html.is-animating .scroll-progress-bar {
   position: relative;
   height: 100%;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1200px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
