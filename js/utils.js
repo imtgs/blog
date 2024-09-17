@@ -157,14 +157,7 @@ export default function initUtils() {
 
       for (let i = 0; i < toolList.length; i++) {
         const tools = toolList[i];
-        if (y <= 100) {
-          if (location.pathname === config.root) {
-            tools.classList.add("hide");
-            if (aplayer !== null) {
-              aplayer.classList.add("hide");
-            }
-          }
-        } else if (y + windowHeight >= height - 20) {
+        if (y + windowHeight >= height - 20) {
           tools.classList.add("hide");
           if (aplayer !== null) {
             aplayer.classList.add("hide");
